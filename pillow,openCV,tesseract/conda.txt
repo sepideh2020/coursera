@@ -1,0 +1,12 @@
+conda update conda
+conda create -n py3env python==3.8.5 anaconda
+source activate py3env(name of environment)
+conda activate py3env
+conda deactivate
+change directory by git bash: cd /E/Study/Codes
+pip install pillow
+pip install pytesseract
+pip install numpy
+pip install matplotlib
+pip install opencv-python
+jupyter notebook
